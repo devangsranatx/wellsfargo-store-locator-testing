@@ -1,0 +1,7 @@
+# Test Scenarios – Store Locator
+
+1. User enters a valid ZIP code and receives correct location results.
+2. User enters an invalid ZIP code and receives an error message.
+3. User clicks “Use Current Location” and locations appear correctly.
+4. Filter options work (ATM only, drive-through, etc.)
+5. Map displays corresponding locations with correct pins.
