@@ -1,0 +1,9 @@
+# Test Execution Summary
+
+| Total Test Cases | Passed | Failed | Blocked |
+|------------------|--------|--------|---------|
+| 6                | 5      | 1      | 0       |
+
+### Notes:
+- One test case failed due to filter not working correctly with ATMs only.
+- All other functionality worked as expected.
