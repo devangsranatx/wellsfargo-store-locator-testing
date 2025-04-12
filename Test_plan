@@ -1,0 +1,28 @@
+# Test Plan – Wells Fargo Store Locator
+
+## Objective
+To validate the functionality, usability, and reliability of the Wells Fargo Store Locator feature to ensure users can successfully search and find branches and ATMs.
+
+## Scope
+- Functional Testing of the Store Locator
+- UI Validation
+- Positive and Negative Scenario Testing
+- Cross-browser testing (Chrome, Firefox)
+
+## Out of Scope
+- Backend/API testing
+- Performance testing
+
+## Test Type
+- Manual Testing (Black Box)
+
+## Tools Used
+- Browser: Chrome, Firefox
+- Test Case Management: Excel
+- Defect Tracking: Google Sheets / Excel
+
+## Team
+- QA Tester: [Your Name]
+
+## Risks
+- Third-party map integration not under test control
