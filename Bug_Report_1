@@ -1,0 +1,16 @@
+# Bug Report – Filter Not Working
+
+**Title:** ATM-Only filter does not show correct locations
+
+**Steps to Reproduce:**
+1. Go to Store Locator
+2. Enter ZIP: `90210`
+3. Check "ATM Only"
+4. Click Search
+
+**Expected Result:** Only ATMs should be shown  
+**Actual Result:** Both ATMs and branches are shown
+
+**Severity:** Medium  
+**Status:** Open  
+**Reported On:** [Date]
